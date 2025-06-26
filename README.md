@@ -2,14 +2,6 @@
 
 A modern medication tracking application built with **React + TypeScript**, designed for both **patients** and **caretakers**. This project was developed as part of the **React Developer Assessment** for **GravityWrite by Website Learners**.
 
----
-
-## 🔗 Live Demo
-
-**URL:** [https://meds-buddy-check.vercel.app](https://meds-buddy-check.vercel.app)
-
----
-
 ##  Features
 
 ### Phase 1 – Core (Completed)
